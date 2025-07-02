@@ -30,15 +30,12 @@ Destinado especialmente a estudantes e profissionais que desejam se preparar par
 
 ---
 
-
----
-
 ## Pré-requisitos
 
 - Python 3.10 ou superior
 - Biblioteca padrão `tkinter` para interface gráfica (geralmente já incluída na instalação do Python)
 
----
+
 
 ## Como usar
 
@@ -48,19 +45,19 @@ Destinado especialmente a estudantes e profissionais que desejam se preparar par
 git clone https://github.com/seu_usuario/CTF-Tools-Educacional.git
 
 
----
+
 
 ## 2. Navegue até a pasta da interface:
 
 cd CTF-Tools-Educacional/interface
 
----
+
 
 ## 3. Execute a aplicação principal:
 
 python main_gui.py
 
----
+
 
 ## 4. Use a janela principal para acessar cada ferramenta:
 
@@ -80,7 +77,8 @@ Base Converter para converter valores e textos entre sistemas numéricos
 
 - Base Converter: converta o número decimal 255 para hexadecimal (FF) e binário (11111111).
 
----
+
+
 ### Potenciais Aplicações
 
 - Preparação para competições CTF e desafios de segurança
@@ -91,15 +89,18 @@ Base Converter para converter valores e textos entre sistemas numéricos
 
 - Projeto demonstrativo para portfólio profissional e recrutamento em tecnologia
 
----
+
+
 ### Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests e sugerir melhorias.
 
----
+
+
 ### Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para detalhes.
 
----
+
+
 Professor Max Muller
