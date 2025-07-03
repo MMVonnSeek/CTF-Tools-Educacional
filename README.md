@@ -67,15 +67,29 @@ XOR Tool para aplicar a operação XOR com chave customizada
 
 Base Converter para converter valores e textos entre sistemas numéricos
 
+
+![main](https://github.com/user-attachments/assets/a7a38e48-9ccf-4866-8cc3-d41c3078e84f)
+
 ---
 
 ### Exemplos de Uso
 
 - Encoder/Decoder: codifique o texto "Hello World!" em Base64, e decodifique o resultado para validar.
 
+![Encoder](https://github.com/user-attachments/assets/946bf0d2-7624-446c-bf2b-89ee047da558)
+
+
 - XOR Tool: aplique XOR em uma mensagem com a chave "chave123", veja a saída criptografada e tente decodificar aplicando XOR novamente com a mesma chave.
 
+![XOR](https://github.com/user-attachments/assets/66f93c22-a9c1-4ae6-afef-a5aa8bf4b728)
+
+
+
+
 - Base Converter: converta o número decimal 255 para hexadecimal (FF) e binário (11111111).
+
+![conversor](https://github.com/user-attachments/assets/fe3deaa4-e2bd-4f82-b717-08a5576e53f7)
+
 
 
 
