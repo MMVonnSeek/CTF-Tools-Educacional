@@ -115,6 +115,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar p
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para detalhes.
 
+---
 
+## Autor
+Professor: Max Müller
 
-Professor Max Muller
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
