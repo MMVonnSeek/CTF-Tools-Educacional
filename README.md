@@ -39,27 +39,26 @@ Destinado especialmente a estudantes e profissionais que desejam se preparar par
 
 ## Como usar
 
-## 1. Clone este repositório:
+1. Faça um Fork do Repositório:
+Antes de tudo, crie sua própria cópia deste projeto:
 
+- Clique no botão Fork no canto superior direito do GitHub.
 
-git clone https://github.com/seu_usuario/CTF-Tools-Educacional.git
+- Isso criará uma versão do repositório na sua conta.
 
+2. Clone o Seu Repositório Forkado:
 
+```
+git clone https://github.com/SEU-USUARIO/CTF-Tools-Educacional.git
+cd CTF-Tools-Educacional
+```
 
-
-## 2. Navegue até a pasta da interface:
-
-cd CTF-Tools-Educacional/interface
-
-
-
-## 3. Execute a aplicação principal:
+3. Execute a aplicação principal:
 
 python main_gui.py
 
 
-
-## 4. Use a janela principal para acessar cada ferramenta:
+4. Use a janela principal para acessar cada ferramenta:
 
 Encoder/Decoder para codificar e decodificar textos em Base64 e URL
 
