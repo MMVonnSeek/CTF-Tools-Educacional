@@ -5,14 +5,14 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 
 <!-- Funcionalidades -->
-![Encoding](https://img.shields.io/badge/Feature-Encoding_%26_Decoding-orange?style=for-the-badge&logo=codefactor)
-![XOR Crypto](https://img.shields.io/badge/Cryptografia-XOR_Cipher-red?style=for-the-badge&logo=security)
-![Base Converter](https://img.shields.io/badge/Converter-Bin%20Hex%20Dec%20Oct-yellow?style=for-the-badge&logo=calculator)
-![String Tools](https://img.shields.io/badge/Strings-Análise_textual-important?style=for-the-badge&logo=textpattern)
+![Encoding](https://img.shields.io/badge/Feature-Encoding_%26_Decoding-lightblue?style=for-the-badge&logo=codefactor)
+![XOR Crypto](https://img.shields.io/badge/Cryptografia-XOR_Cipher-9cf?style=for-the-badge&logo=security)
+![Base Converter](https://img.shields.io/badge/Converter-Bin%20Hex%20Dec%20Oct-darkblue?style=for-the-badge&logo=calculator)
+![String Tools](https://img.shields.io/badge/Strings-Análise_textual-blueviolet?style=for-the-badge&logo=textpattern)
 
 <!-- Educacional -->
 ![CTF Training](https://img.shields.io/badge/CTF-Training_Tool-9cf?style=for-the-badge&logo=flag)
-![Cyber Education](https://img.shields.io/badge/Educação-Segurança_da_Informação-blueviolet?style=for-the-badge&logo=hackaday)
+![Cyber Education](https://img.shields.io/badge/Educação-Segurança_da_Informação-yellow?style=for-the-badge&logo=hackaday)
 
 ![Ethical Use](https://img.shields.io/badge/Ethical_Use-Apenas_Educacional-red?style=for-the-badge&logo=security)
 
