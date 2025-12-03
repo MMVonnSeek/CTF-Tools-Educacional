@@ -7,8 +7,8 @@
 <!-- Funcionalidades -->
 ![Encoding](https://img.shields.io/badge/Feature-Encoding_%26_Decoding-lightblue?style=for-the-badge&logo=codefactor)
 ![XOR Crypto](https://img.shields.io/badge/Cryptografia-XOR_Cipher-9cf?style=for-the-badge&logo=security)
-![Base Converter](https://img.shields.io/badge/Converter-Bin%20Hex%20Dec%20Oct-darkblue?style=for-the-badge&logo=calculator)
-![String Tools](https://img.shields.io/badge/Strings-Análise_textual-blueviolet?style=for-the-badge&logo=textpattern)
+![Base Converter](https://img.shields.io/badge/Converter-Bin%20Hex%20Dec%20Oct-blue?style=for-the-badge&logo=calculator)
+![String Tools](https://img.shields.io/badge/Strings-Análise_textual-darkblue?style=for-the-badge&logo=textpattern)
 
 <!-- Educacional -->
 ![CTF Training](https://img.shields.io/badge/CTF-Training_Tool-darkred?style=for-the-badge&logo=flag)
