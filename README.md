@@ -11,7 +11,7 @@
 ![String Tools](https://img.shields.io/badge/Strings-Análise_textual-blueviolet?style=for-the-badge&logo=textpattern)
 
 <!-- Educacional -->
-![CTF Training](https://img.shields.io/badge/CTF-Training_Tool-9cf?style=for-the-badge&logo=flag)
+![CTF Training](https://img.shields.io/badge/CTF-Training_Tool-darkred?style=for-the-badge&logo=flag)
 ![Cyber Education](https://img.shields.io/badge/Educação-Segurança_da_Informação-yellow?style=for-the-badge&logo=hackaday)
 
 ![Ethical Use](https://img.shields.io/badge/Ethical_Use-Apenas_Educacional-red?style=for-the-badge&logo=security)
